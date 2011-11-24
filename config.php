@@ -19,7 +19,7 @@
 	$_CONFIG['port'] = 6667;
 	
 	// Bot config
-	$_CONFIG['nick'] = 'dhw11^';	// Bot nickname
+	$_CONFIG['nick'] = 'dhbot';	// Bot nickname
 	$_CONFIG['ident'] = 'irc';		// Bot identd
 	$_CONFIG['realname'] = 'irc';	// Bot realname
 	$_CONFIG['channels'] = '#dhw11,#dreamhack.date'; // Comma separated

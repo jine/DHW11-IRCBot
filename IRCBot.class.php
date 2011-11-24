@@ -101,7 +101,7 @@ class IRCBot {
 	// Special function to handle ping/pongs
 	function pingpong($data) {
 		// Got PING, sending PONG
-		$this->debug('Got ping! '.$data);
+		$this->debug('Got '.$data);
 		
 		// Send PONG
 		$ping = explode(' ', $data);
